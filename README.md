@@ -27,8 +27,18 @@
 ![cmd-markdown-logo](http://images.cnitblog.com/blog/641601/201406/141837183747806.png)
 
 (1)新建->变量名"JAVA_HOME"，变量值"C:\Java\jdk1.8.0_05"（即JDK的安装路径）
+
 (2)编辑->变量名"Path"，在原变量值的最后面加上“;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin”
+
 (3)新建->变量名“CLASSPATH”,变量值“.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar”
+
+
+如：JAVA_HOME环境变量的操作如下：
+
+![cmd-markdown-logo](http://images.cnitblog.com/blog/641601/201406/141837213112074.png)
+
+![cmd-markdown-logo](http://images.cnitblog.com/blog/641601/201406/141837222804145.jpg)
+
 
 ### 3. 高亮一段代码[^code]
 
