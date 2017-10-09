@@ -8,8 +8,15 @@
 
 ![cmd-markdown-logo](http://images.cnitblog.com/blog/641601/201406/141837135613909.png)
 
-Markdown 是一种方便记忆、书写的纯文本标记语言，用户可以使用这些标记符号以最小的输入代价生成极富表现力的文档：譬如您正在阅读的这份文档。它使用简单的符号标记不同的标题，分割不同的段落，**粗体** 或者 *斜体* 某些文字，更棒的是，它还可以
+开始安装JDK：
+![cmd-markdown-logo](http://images.cnitblog.com/blog/641601/201406/141837152804351.jpg)
 
+修改安装目录如下：
+![cmd-markdown-logo](http://images.cnitblog.com/blog/641601/201406/141837169365577.jpg)
+
+确定之后，单击“下一步”。
+
+注：当提示安装JRE时，可以选择不要安装。
 ### 1. 制作一份待办事宜 [Todo 列表](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表)
 
 - [ ] 支持以 PDF 格式导出文稿
