@@ -26,4 +26,4 @@ public class StartController {
     }  
 }
 
-这样在浏览器中输入：http://localhost:8080/start/index即可访问到start.jsp页面
+这样在浏览器中输入：http://localhost:8080/start/index 即可访问到start.jsp页面
