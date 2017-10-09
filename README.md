@@ -1,6 +1,6 @@
 # Java配置----JDK开发环境搭建及环境变量配置
 
-## 安装JDK开发环境
+## 1. 安装JDK开发环境
 
 ![cmd-markdown-logo](http://images.cnitblog.com/blog/641601/201406/141837064202858.png)
 
@@ -18,7 +18,7 @@
 
 确定之后，单击“下一步”。
 
-## 配置环境变量
+## 1. 配置环境变量
 
 对于Java程序开发而言，主要会使用JDK的两个命令：javac.exe、java.exe。路径：C:\Java\jdk 1.7.0 _09\bin。但是这些命令由于不属于windows自己的命令，所以要想使用，就需要进行路径配置。 
 
@@ -40,17 +40,16 @@
 ![cmd-markdown-logo](http://images.cnitblog.com/blog/641601/201406/141837222804145.jpg)
 
 
-### 3. 高亮一段代码[^code]
+## 3. 确认环境配置是否真确：
 
-```python
-@requires_authorization
-class SomeClass:
-    pass
+在控制台分别输入java，javac，java -version 命令，出现如下所示的JDK的编译器信息，包括修改命令的语法和参数选项等信息。
 
-if __name__ == '__main__':
-    # A comment
-    print 'hello world'
-```
+java命令：
+
+![cmd-markdown-logo](http://images.cnitblog.com/blog/641601/201406/141837234679916.png)
+
+![cmd-markdown-logo](http://images.cnitblog.com/blog/641601/201406/141837245308258.png)
+
 
 ### 4. 高效绘制 [流程图](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#7-流程图)
 
