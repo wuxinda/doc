@@ -9,9 +9,11 @@
 ![cmd-markdown-logo](http://images.cnitblog.com/blog/641601/201406/141837135613909.png)
 
 开始安装JDK：
+
 ![cmd-markdown-logo](http://images.cnitblog.com/blog/641601/201406/141837152804351.jpg)
 
 修改安装目录如下：
+
 ![cmd-markdown-logo](http://images.cnitblog.com/blog/641601/201406/141837169365577.jpg)
 
 确定之后，单击“下一步”。
